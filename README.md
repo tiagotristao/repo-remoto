@@ -1,3 +1,3 @@
-# repo-remoto
+# repo-local
 
-Desc inserida no repo antes do clone
+Desc inserida no repo local depois do clone
